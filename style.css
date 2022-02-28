@@ -1,0 +1,25 @@
+html {
+    background-color: rgb(255, 255, 255);
+    font-family: 'League Spartan'
+}
+body {
+    background-color: rgba(113, 96, 190, 0.418);
+    width: 400px;
+    margin: 0 auto;
+    padding: 10px 20px 20px;
+
+}
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+li {
+    font-size: 20px;
+
+}
+.bold {
+    font-weight: bold;
+}
+p.bold {
+    font-style: italic;
+}
